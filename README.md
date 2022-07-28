@@ -16,8 +16,8 @@
 - [Memory Game](https://github.com/ionicr1/MemoryGameJS)
 
 ## Game Development:
-- [Pygame Pong](https://github.com/ionicr1/PygamePong)
-- [Godot FPS Controller Code](https://github.com/ionicr1/Godot)
+- [Pygame Pong](https://github.com/ionicr1/PygamePong/blob/main/Pong.py)
+- [Godot FPS Controller Code](https://github.com/ionicr1/Godot/blob/main/FPSControllerBasic.gd)
 
 <!--
 **ionicr1/ionicr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
