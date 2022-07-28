@@ -1,4 +1,7 @@
-### Hi there 👋
+### Cybersecurity Analyst && Engineer, Programmer, Game Developer
+
+## Automation:
+- [SIEM Attacker Automation Scritps] (https://github.com/ionicr1/HomeLab_VerifyScripts)
 
 <!--
 **ionicr1/ionicr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
