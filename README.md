@@ -2,6 +2,7 @@
 
 ## Automation:
 - [SIEM Attacker Automation Scritps](https://github.com/ionicr1/HomeLab_VerifyScripts)
+- [Chrome Custom Search Engine - OSINT](https://github.com/ionicr1/Custom-Search-Engines-Chrome---OSINT/blob/main/SearchEngines.json)
 
 ## Encryption:
 - [Caesar Cipher](https://github.com/ionicr1/Kattis/blob/main/caesar.py)
